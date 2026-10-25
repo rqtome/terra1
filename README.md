@@ -1,3 +1,3 @@
 # terra1
 for the first week of terra
-ummm yeah i odnt know
+i am not quite sure what to add here ummm gulps... hi! ^O^ lmaoaoaooo

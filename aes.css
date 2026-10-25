@@ -1,13 +1,56 @@
+
+.sidenav {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: moccasin;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: deeppink;
+  display: block;
+}
+.sidenav a:hover {
+  color: lightpink;
+}
 body {
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color:lightpink;
     text-decoration-color:deeppink;
+    color:deeppink;
+    padding-left: 160px;
 }
 header {
     font-family:monospace;
-    background-color:hotpink;
+    background-color:deeppink;
+    color:lightpink;
+    background-size: cover;
     position:sticky;
     top:0;
     padding:10px 16px;
 }
+h1 {
+    font-size:xx-large;
+    color:deeppink;
+}
+h2{
+    font-size:x-large;
+    color: lightpink;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
