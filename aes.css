@@ -1,9 +1,13 @@
 body {
-    text-align: right;
+    text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color:hotpink;
+    background-color:lightpink;
     text-decoration-color:deeppink;
 }
 header {
-    background-color:lightpink;
+    font-family:monospace;
+    background-color:hotpink;
+    position:sticky;
+    top:0;
+    padding:10px 16px;
 }
